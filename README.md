@@ -82,3 +82,18 @@ Document Project: In the README, write a short project description, purpose, and
 Collaboration Guidelines: Include information for collaborators on contributing and reporting issues.
 
 Submit URL: Submit the URL of your Git repository containing all completed tasks.
+
+
+
+
+
+# Hello World!
+
+```C
+#include <stdio.h>
+
+int main() {
+   /* printf() function to write Hello, World! */
+   printf( "Hello, World!" );
+}
+```
